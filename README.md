@@ -99,4 +99,22 @@ For Example:
 2. kkk
 3. kkk
 4. kkk
-5. 
+
+
+#### to add imoticons (colon, then name)
+
+💌
+🖱️
+
+#### building tables in markdown
+
+|name|age|sex|
+|-----|-----|-----|
+|Pavel|30|M|
+|Ngaybe|32|F|
+|Asobo|NULL|M|
+
+#### adding a horizontal line 
+---
+
+
