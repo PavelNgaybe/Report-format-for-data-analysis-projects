@@ -13,7 +13,7 @@ View markdown cheat sheet [here](https://www.markdownguide.org/cheat-sheet/).
 
 # Title of Analysis
 
-ANOVA
+E.g. ANOVA
 
 ##Table of content 
 - [Source of this content](#source)
